@@ -1,0 +1,57 @@
+C:\Task\Restaurant\Restaurant\obj\Debug\ResolveAssemblyReference.cache
+C:\Task\Restaurant\Restaurant\obj\Debug\Restaurant.FrmAttendances.resources
+C:\Task\Restaurant\Restaurant\obj\Debug\Restaurant.FrmCurrency.resources
+C:\Task\Restaurant\Restaurant\obj\Debug\Restaurant.frmEmployee.resources
+C:\Task\Restaurant\Restaurant\obj\Debug\Restaurant.frmImport.resources
+C:\Task\Restaurant\Restaurant\obj\Debug\Restaurant.FrmItems.resources
+C:\Task\Restaurant\Restaurant\obj\Debug\Restaurant.frmMain.resources
+C:\Task\Restaurant\Restaurant\obj\Debug\Restaurant.FrmPossition.resources
+C:\Task\Restaurant\Restaurant\obj\Debug\Restaurant.frmProductCost.resources
+C:\Task\Restaurant\Restaurant\obj\Debug\Restaurant.frmSalaryExpense.resources
+C:\Task\Restaurant\Restaurant\obj\Debug\Restaurant.FrmSales.resources
+C:\Task\Restaurant\Restaurant\obj\Debug\Restaurant.FrmStocks.resources
+C:\Task\Restaurant\Restaurant\obj\Debug\Restaurant.frmSupplier.resources
+C:\Task\Restaurant\Restaurant\obj\Debug\Restaurant.FrmUser.resources
+C:\Task\Restaurant\Restaurant\obj\Debug\Restaurant.Login.resources
+C:\Task\Restaurant\Restaurant\obj\Debug\Restaurant.frmType.resources
+C:\Task\Restaurant\Restaurant\obj\Debug\Restaurant.Resources.resources
+C:\Task\Restaurant\Restaurant\obj\Debug\Restaurant.vbproj.GenerateResource.Cache
+C:\Task\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+C:\Task\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+C:\Task\Restaurant\Restaurant\bin\Debug\Restaurant.xml
+C:\Task\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+C:\Task\Restaurant\Restaurant\obj\Debug\Restaurant.xml
+C:\Task\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+D:\Projects\OOP\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+D:\Projects\OOP\Restaurant\Restaurant\obj\Debug\Restaurant.xml
+D:\Projects\OOP\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+D:\Projects\OOP\Restaurant Me\Restaurant\obj\Debug\Restaurant.exe
+D:\Projects\OOP\Restaurant Me\Restaurant\obj\Debug\Restaurant.xml
+D:\Projects\OOP\Restaurant Me\Restaurant\obj\Debug\Restaurant.pdb
+D:\Projects\OOP\Restaurant Me\Restaurant\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\OOP\Restaurant Me\Restaurant\obj\Debug\Restaurant.FrmAttendances.resources
+D:\Projects\OOP\Restaurant Me\Restaurant\obj\Debug\Restaurant.FrmCurrency.resources
+D:\Projects\OOP\Restaurant Me\Restaurant\obj\Debug\Restaurant.frmEmployee.resources
+D:\Projects\OOP\Restaurant Me\Restaurant\obj\Debug\Restaurant.frmImport.resources
+D:\Projects\OOP\Restaurant Me\Restaurant\obj\Debug\Restaurant.FrmItems.resources
+D:\Projects\OOP\Restaurant Me\Restaurant\obj\Debug\Restaurant.frmMain.resources
+D:\Projects\OOP\Restaurant Me\Restaurant\obj\Debug\Restaurant.FrmPossition.resources
+D:\Projects\OOP\Restaurant Me\Restaurant\obj\Debug\Restaurant.frmProductCost.resources
+D:\Projects\OOP\Restaurant Me\Restaurant\obj\Debug\Restaurant.frmSalaryExpense.resources
+D:\Projects\OOP\Restaurant Me\Restaurant\obj\Debug\Restaurant.FrmSales.resources
+D:\Projects\OOP\Restaurant Me\Restaurant\obj\Debug\Restaurant.FrmStocks.resources
+D:\Projects\OOP\Restaurant Me\Restaurant\obj\Debug\Restaurant.frmSupplier.resources
+D:\Projects\OOP\Restaurant Me\Restaurant\obj\Debug\Restaurant.FrmUser.resources
+D:\Projects\OOP\Restaurant Me\Restaurant\obj\Debug\Restaurant.Login.resources
+D:\Projects\OOP\Restaurant Me\Restaurant\obj\Debug\Restaurant.frmType.resources
+D:\Projects\OOP\Restaurant Me\Restaurant\obj\Debug\Restaurant.Resources.resources
+D:\Projects\OOP\Restaurant Me\Restaurant\obj\Debug\Restaurant.vbproj.GenerateResource.Cache
+D:\Projects\OOP\Restaurant Me\Restaurant\bin\Debug\Restaurant.exe
+D:\Projects\OOP\Restaurant Me\Restaurant\bin\Debug\Restaurant.pdb
+D:\Projects\OOP\Restaurant Me\Restaurant\bin\Debug\Restaurant.xml
+D:\Projects\OOP\Restaurant Me\Restaurant\obj\Debug\Restaurant.MainForm.resources
+D:\Projects\OOP\Restaurant Me\Restaurant\obj\Debug\Restaurant.frmWelcome.resources
+D:\Projects\OOP\Restaurant Me\Restaurant\obj\Debug\Restaurant.FrmTable.resources
+D:\Projects\OOP\Restaurant Management System\Restaurant\obj\Debug\Restaurant.exe
+D:\Projects\OOP\Restaurant Management System\Restaurant\obj\Debug\Restaurant.xml
+D:\Projects\OOP\Restaurant Management System\Restaurant\obj\Debug\Restaurant.pdb

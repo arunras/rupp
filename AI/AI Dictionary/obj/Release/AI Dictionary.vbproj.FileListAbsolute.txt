@@ -1,0 +1,10 @@
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Release\ResolveAssemblyReference.cache
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Release\Interop.SpeechLib.dll
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Release\AI Dictionary.vbproj.ResolveComReference.cache
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Release\AI_Dictionary.fReserve_AIDictionary.resources
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Release\AI_Dictionary.AIDictionary.resources
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Release\AI_Dictionary.MainForm.resources
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Release\AI_Dictionary.Recorder.resources
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Release\AI_Dictionary.Sample.resources
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Release\AI_Dictionary.Resources.resources
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Release\AI Dictionary.vbproj.GenerateResource.Cache

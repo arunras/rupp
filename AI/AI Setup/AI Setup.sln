@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AI Setup", "AI Setup\AI Setup.vdproj", "{BB39F50F-8C95-441A-987D-93FB86AF7BED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB39F50F-8C95-441A-987D-93FB86AF7BED}.Debug|Default.ActiveCfg = Debug
+		{BB39F50F-8C95-441A-987D-93FB86AF7BED}.Debug|Default.Build.0 = Debug
+		{BB39F50F-8C95-441A-987D-93FB86AF7BED}.Release|Default.ActiveCfg = Release
+		{BB39F50F-8C95-441A-987D-93FB86AF7BED}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

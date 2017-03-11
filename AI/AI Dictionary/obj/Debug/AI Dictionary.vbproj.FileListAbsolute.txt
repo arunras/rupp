@@ -1,0 +1,100 @@
+C:\Users\PHEARUN\AppData\Local\Temporary Projects\AI Dictionary\bin\Debug\AI Dictionary.exe
+C:\Users\PHEARUN\AppData\Local\Temporary Projects\AI Dictionary\bin\Debug\AI Dictionary.pdb
+C:\Users\PHEARUN\AppData\Local\Temporary Projects\AI Dictionary\bin\Debug\AI Dictionary.xml
+C:\Users\PHEARUN\AppData\Local\Temporary Projects\AI Dictionary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PHEARUN\AppData\Local\Temporary Projects\AI Dictionary\obj\Debug\AI_Dictionary.Form1.resources
+C:\Users\PHEARUN\AppData\Local\Temporary Projects\AI Dictionary\obj\Debug\AI_Dictionary.Resources.resources
+C:\Users\PHEARUN\AppData\Local\Temporary Projects\AI Dictionary\obj\Debug\AI Dictionary.vbproj.GenerateResource.Cache
+C:\Users\PHEARUN\AppData\Local\Temporary Projects\AI Dictionary\obj\Debug\AI Dictionary.exe
+C:\Users\PHEARUN\AppData\Local\Temporary Projects\AI Dictionary\obj\Debug\AI Dictionary.xml
+C:\Users\PHEARUN\AppData\Local\Temporary Projects\AI Dictionary\obj\Debug\AI Dictionary.pdb
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Debug\AI Dictionary.exe
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Debug\AI Dictionary.xml
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Debug\AI Dictionary.pdb
+D:\Projects\AI\AI Dictionary\AI Dictionary\bin\Debug\AI Dictionary.exe
+D:\Projects\AI\AI Dictionary\AI Dictionary\bin\Debug\AI Dictionary.pdb
+D:\Projects\AI\AI Dictionary\AI Dictionary\bin\Debug\AI Dictionary.xml
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Debug\AI_Dictionary.Resources.resources
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Debug\AI Dictionary.vbproj.GenerateResource.Cache
+D:\Projects\AI\AI Dictionary\AI Dictionary\bin\Debug\Interop.SpeechLib.dll
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Debug\Interop.SpeechLib.dll
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Debug\AI Dictionary.vbproj.ResolveComReference.cache
+D:\Projects\AI\AI Dictionary\AI Dictionary\bin\Debug\ChilkatDotNet2.dll
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Debug\AI_Dictionary.AIDictionary.resources
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Debug\AI_Dictionary.AIWelcome.resources
+D:\Projects\AI\AI Dictionary\AI Dictionary\bin\Debug\AxInterop.MSComCtl2.dll
+D:\Projects\AI\AI Dictionary\AI Dictionary\bin\Debug\AxInterop.MSComctlLib.dll
+D:\Projects\AI\AI Dictionary\AI Dictionary\bin\Debug\Interop.MSComCtl2.dll
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Debug\AI_Dictionary.AISpeech.resources
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Debug\AI_Dictionary.AIRecognition.resources
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Debug\AI_Dictionary.fNewKE.resources
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Debug\AI_Dictionary.fSetting.resources
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Debug\AI_Dictionary.AIEE.resources
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Debug\AI_Dictionary.AIKE.resources
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Debug\AI_Dictionary.AIKK.resources
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Debug\AI_Dictionary.fProgressBar.resources
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Debug\AI_Dictionary.fLoadData.resources
+D:\AI Dictionary(20.05.11)\AI Dictionary\obj\Debug\Interop.SpeechLib.dll
+D:\AI Dictionary(20.05.11)\AI Dictionary\obj\Debug\AI Dictionary.vbproj.ResolveComReference.cache
+D:\AI Dictionary(20.05.11)\AI Dictionary\obj\Debug\AI Dictionary.exe
+D:\AI Dictionary(20.05.11)\AI Dictionary\obj\Debug\AI Dictionary.xml
+D:\AI Dictionary(20.05.11)\AI Dictionary\obj\Debug\AI Dictionary.pdb
+D:\AI Dictionary(20.05.11)\AI Dictionary\obj\Debug\ResolveAssemblyReference.cache
+D:\AI Dictionary(20.05.11)\AI Dictionary\obj\Debug\AI_Dictionary.AIDictionary.resources
+D:\AI Dictionary(20.05.11)\AI Dictionary\obj\Debug\AI_Dictionary.AIEE.resources
+D:\AI Dictionary(20.05.11)\AI Dictionary\obj\Debug\AI_Dictionary.AIKE.resources
+D:\AI Dictionary(20.05.11)\AI Dictionary\obj\Debug\AI_Dictionary.AIKK.resources
+D:\AI Dictionary(20.05.11)\AI Dictionary\obj\Debug\AI_Dictionary.AINote.resources
+D:\AI Dictionary(20.05.11)\AI Dictionary\obj\Debug\AI_Dictionary.AIRecognition.resources
+D:\AI Dictionary(20.05.11)\AI Dictionary\obj\Debug\AI_Dictionary.AIWelcome.resources
+D:\AI Dictionary(20.05.11)\AI Dictionary\obj\Debug\AI_Dictionary.fNewKE.resources
+D:\AI Dictionary(20.05.11)\AI Dictionary\obj\Debug\AI_Dictionary.AISpeech.resources
+D:\AI Dictionary(20.05.11)\AI Dictionary\obj\Debug\AI_Dictionary.fLoadData.resources
+D:\AI Dictionary(20.05.11)\AI Dictionary\obj\Debug\AI_Dictionary.fProgressBar.resources
+D:\AI Dictionary(20.05.11)\AI Dictionary\obj\Debug\AI_Dictionary.fSetting.resources
+D:\AI Dictionary(20.05.11)\AI Dictionary\obj\Debug\AI_Dictionary.Resources.resources
+D:\AI Dictionary(20.05.11)\AI Dictionary\obj\Debug\AI Dictionary.vbproj.GenerateResource.Cache
+D:\AI Dictionary(20.05.11)\AI Dictionary\bin\Debug\AI Dictionary.exe
+D:\AI Dictionary(20.05.11)\AI Dictionary\bin\Debug\AI Dictionary.pdb
+D:\AI Dictionary(20.05.11)\AI Dictionary\bin\Debug\AI Dictionary.xml
+D:\AI Dictionary(20.05.11)\AI Dictionary\bin\Debug\Interop.SpeechLib.dll
+D:\Projects\AI\AI Dictionary(21.05.11Anal)\AI Dictionary\obj\Debug\Interop.SpeechLib.dll
+D:\Projects\AI\AI Dictionary(21.05.11Anal)\AI Dictionary\obj\Debug\AI Dictionary.vbproj.ResolveComReference.cache
+D:\Projects\AI\AI Dictionary(21.05.11Anal)\AI Dictionary\obj\Debug\AI Dictionary.exe
+D:\Projects\AI\AI Dictionary(21.05.11Anal)\AI Dictionary\obj\Debug\AI Dictionary.xml
+D:\Projects\AI\AI Dictionary(21.05.11Anal)\AI Dictionary\obj\Debug\AI Dictionary.pdb
+D:\Projects\AI\AI Dictionary(21.05.11Anal)\AI Dictionary\bin\Debug\AI Dictionary.exe
+D:\Projects\AI\AI Dictionary(21.05.11Anal)\AI Dictionary\bin\Debug\AI Dictionary.pdb
+D:\Projects\AI\AI Dictionary(21.05.11Anal)\AI Dictionary\bin\Debug\AI Dictionary.xml
+D:\Projects\AI\AI Dictionary(21.05.11Anal)\AI Dictionary\bin\Debug\AxInterop.MSComCtl2.dll
+D:\Projects\AI\AI Dictionary(21.05.11Anal)\AI Dictionary\bin\Debug\AxInterop.MSComctlLib.dll
+D:\Projects\AI\AI Dictionary(21.05.11Anal)\AI Dictionary\bin\Debug\ChilkatDotNet2.dll
+D:\Projects\AI\AI Dictionary(21.05.11Anal)\AI Dictionary\bin\Debug\Interop.MSComCtl2.dll
+D:\Projects\AI\AI Dictionary(21.05.11Anal)\AI Dictionary\bin\Debug\Interop.SpeechLib.dll
+D:\Projects\AI\AI Dictionary(21.05.11Anal)\AI Dictionary\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\AI\AI Dictionary(21.05.11Anal)\AI Dictionary\obj\Debug\AI_Dictionary.AIDictionary.resources
+D:\Projects\AI\AI Dictionary(21.05.11Anal)\AI Dictionary\obj\Debug\AI_Dictionary.AIEE.resources
+D:\Projects\AI\AI Dictionary(21.05.11Anal)\AI Dictionary\obj\Debug\AI_Dictionary.AIKE.resources
+D:\Projects\AI\AI Dictionary(21.05.11Anal)\AI Dictionary\obj\Debug\AI_Dictionary.AIKK.resources
+D:\Projects\AI\AI Dictionary(21.05.11Anal)\AI Dictionary\obj\Debug\AI_Dictionary.AINote.resources
+D:\Projects\AI\AI Dictionary(21.05.11Anal)\AI Dictionary\obj\Debug\AI_Dictionary.AIRecognition.resources
+D:\Projects\AI\AI Dictionary(21.05.11Anal)\AI Dictionary\obj\Debug\AI_Dictionary.AIWelcome.resources
+D:\Projects\AI\AI Dictionary(21.05.11Anal)\AI Dictionary\obj\Debug\AI_Dictionary.fNewKE.resources
+D:\Projects\AI\AI Dictionary(21.05.11Anal)\AI Dictionary\obj\Debug\AI_Dictionary.AISpeech.resources
+D:\Projects\AI\AI Dictionary(21.05.11Anal)\AI Dictionary\obj\Debug\AI_Dictionary.fLoadData.resources
+D:\Projects\AI\AI Dictionary(21.05.11Anal)\AI Dictionary\obj\Debug\AI_Dictionary.fProgressBar.resources
+D:\Projects\AI\AI Dictionary(21.05.11Anal)\AI Dictionary\obj\Debug\AI_Dictionary.fSetting.resources
+D:\Projects\AI\AI Dictionary(21.05.11Anal)\AI Dictionary\obj\Debug\AI_Dictionary.Resources.resources
+D:\Projects\AI\AI Dictionary(21.05.11Anal)\AI Dictionary\obj\Debug\AI Dictionary.vbproj.GenerateResource.Cache
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Debug\AI_Dictionary.AINote.resources
+D:\Projects\AI\AI Dictionary(220511Nal)\AI Dictionary\obj\Debug\Interop.SpeechLib.dll
+D:\Projects\AI\AI Dictionary(220511Nal)\AI Dictionary\obj\Debug\AI Dictionary.vbproj.ResolveComReference.cache
+D:\Projects\AI\AI Dictionary(220511Nal)\AI Dictionary\obj\Debug\AI Dictionary.exe
+D:\Projects\AI\AI Dictionary(220511Nal)\AI Dictionary\obj\Debug\AI Dictionary.xml
+D:\Projects\AI\AI Dictionary(220511Nal)\AI Dictionary\obj\Debug\AI Dictionary.pdb
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Debug\AI_Dictionary.fMessage.resources
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Debug\AI_Dictionary.fNewEE.resources
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Debug\AI_Dictionary.fNewKK.resources
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Debug\AI_Dictionary.fAbout.resources
+D:\Projects\AI\AI Dictionary\AI Dictionary\obj\Debug\AI_Dictionary.fSaving.resources

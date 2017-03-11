@@ -1,0 +1,470 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1097BA77-AB4F-41B7-85EC-4A0A6BEE7487}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>AI_Dictionary.My.MyApplication</StartupObject>
+    <RootNamespace>AI_Dictionary</RootNamespace>
+    <AssemblyName>AI Dictionary</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ApplicationIcon>Resources\AI Dictionary.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>AI Dictionary.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>AI Dictionary.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.MSComCtl2, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\AI SpeechSDK\Speech Samples\VB\myTTSAppVB\TTSApp.NET\bin\AxInterop.MSComCtl2.dll</HintPath>
+    </Reference>
+    <Reference Include="AxInterop.MSComctlLib, Version=10.0.4504.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\AI SpeechSDK\Speech Samples\VB\myTTSAppVB\TTSApp.NET\bin\AxInterop.MSComctlLib.dll</HintPath>
+    </Reference>
+    <Reference Include="ChilkatDotNet2, Version=9.1.2.0, Culture=neutral, PublicKeyToken=eb5fc1fc52ef09bd, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Chilkat Software Inc\Chilkat.NET-v2.0-v3.5-Frameworks\ChilkatDotNet2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=8.8.0.0, Culture=neutral, PublicKeyToken=e116d99a00eca71b" />
+    <Reference Include="DevComponents.Instrumentation, Version=8.8.0.0, Culture=neutral, PublicKeyToken=e116d99a00eca71b" />
+    <Reference Include="Interop.MSComCtl2, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\AI SpeechSDK\Speech Samples\VB\myTTSAppVB\TTSApp.NET\bin\Interop.MSComCtl2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.Compatibility" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form\AIDictionary.Designer.vb">
+      <DependentUpon>AIDictionary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\AIDictionary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\AIEE.Designer.vb">
+      <DependentUpon>AIEE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\AIEE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\AIKE.Designer.vb">
+      <DependentUpon>AIKE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\AIKE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\AIKK.Designer.vb">
+      <DependentUpon>AIKK.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\AIKK.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\AIModule\AImodule.vb" />
+    <Compile Include="Form\AIModule\Module1.vb" />
+    <Compile Include="Form\AINote.Designer.vb">
+      <DependentUpon>AINote.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\AINote.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\AIRecognition.Designer.vb">
+      <DependentUpon>AIRecognition.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\AIRecognition.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\AIWelcome.Designer.vb">
+      <DependentUpon>AIWelcome.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\AIWelcome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\fNewEE.Designer.vb">
+      <DependentUpon>fNewEE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\fNewEE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\fNewKE.Designer.vb">
+      <DependentUpon>fNewKE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\fNewKE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\AISpeech.Designer.vb">
+      <DependentUpon>AISpeech.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\AISpeech.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\fNewKK.Designer.vb">
+      <DependentUpon>fNewKK.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\fNewKK.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Sub Form\fAbout.Designer.vb">
+      <DependentUpon>fAbout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Sub Form\fAbout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Sub Form\fLoadData.Designer.vb">
+      <DependentUpon>fLoadData.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Sub Form\fLoadData.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Sub Form\fMessage.Designer.vb">
+      <DependentUpon>fMessage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Sub Form\fMessage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Sub Form\fSaving.Designer.vb">
+      <DependentUpon>fSaving.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Sub Form\fSaving.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Sub Form\fSetting.Designer.vb">
+      <DependentUpon>fSetting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Sub Form\fSetting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form\Sub Form\fProgressBar.Designer.vb">
+      <DependentUpon>fProgressBar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form\Sub Form\fProgressBar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form\AIDictionary.resx">
+      <DependentUpon>AIDictionary.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\AIEE.resx">
+      <DependentUpon>AIEE.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\AIKE.resx">
+      <DependentUpon>AIKE.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\AIKK.resx">
+      <DependentUpon>AIKK.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\AINote.resx">
+      <DependentUpon>AINote.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\AIRecognition.resx">
+      <DependentUpon>AIRecognition.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\AIWelcome.resx">
+      <DependentUpon>AIWelcome.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\fNewEE.resx">
+      <DependentUpon>fNewEE.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\fNewKE.resx">
+      <DependentUpon>fNewKE.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\AISpeech.resx">
+      <DependentUpon>AISpeech.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\fNewKK.resx">
+      <DependentUpon>fNewKK.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Sub Form\fAbout.resx">
+      <DependentUpon>fAbout.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Sub Form\fLoadData.resx">
+      <DependentUpon>fLoadData.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Sub Form\fMessage.resx">
+      <DependentUpon>fMessage.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Sub Form\fProgressBar.resx">
+      <DependentUpon>fProgressBar.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Sub Form\fSaving.resx">
+      <DependentUpon>fSaving.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form\Sub Form\fSetting.resx">
+      <DependentUpon>fSetting.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AI Dictionary.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="SpeechLib">
+      <Guid>{C866CA3A-32F7-11D2-9602-00C04F8EE628}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Searching.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SpeakText.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iSpeech1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iSpeech2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bStop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgRecorder.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AIWelcome.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AIWelcome.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Speaking.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\speak1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stop3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pause1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\speak2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\start2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\start1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stop1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stop2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AI.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recognition.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setting.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\speech.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sms.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sms.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\smsI.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cflag120.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AIWelcome1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kh_banner.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\KK.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EK.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\k1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AIDabout.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\saveWav.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fileWav.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\file2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sms.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b_EE.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b_KK.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b_KE.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b_Speech.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AIWelcome5.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
